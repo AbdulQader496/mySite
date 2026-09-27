@@ -11,6 +11,8 @@ Personal portfolio of **Gulam M. A. Qader**, DevOps Engineer, styled as an inter
 
 ## Run locally
 
+Requires Node.js 22.12 or newer (Node 24 LTS recommended).
+
 ```bash
 npm install
 npm run dev      # http://localhost:5173
