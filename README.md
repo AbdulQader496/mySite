@@ -2,12 +2,12 @@
 
 Personal portfolio of **Gulam M. A. Qader**, DevOps Engineer, styled as an interactive terminal session.
 
-**Live:** deployed on Vercel
+**Live:** deployed on Cloudflare Workers
 
 - Built with React + Vite, no UI libraries
 - Interactive command prompt (`help`, `projects`, `contact`, …) and typed-out sections
 - ASCII-art portrait generated in the browser from a photo
-- Deployed on Vercel, which builds and redeploys automatically on every push to `main`
+- Deployed on Cloudflare Workers (static assets), rebuilt automatically on every push to `main`
 
 ## Run locally
 
